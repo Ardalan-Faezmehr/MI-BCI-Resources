@@ -151,6 +151,8 @@ Additional MI datasets covering diverse paradigms, populations, and clinical app
 | **BCIC-III-IVb** | [Link](http://www.bbci.de/competition/iii/) · [Description](https://www.bbci.de/competition/iii/desc_IVb.html) | 1 | 118 | 1000 Hz | 2 (LH, RF) |
 | **BCIC-III-V** | [Link](https://www.bbci.de/competition/iii/) · [Description](https://www.bbci.de/competition/iii/desc_V.html) | 3 | 32 | 512 Hz | 3 (LH, RH, word generation) |
 
+**Task abbreviations:** LH = left hand, RH = right hand, RF = right foot.
+
 ### Task-Diverse MI Datasets
 
 | Dataset | Access | Tasks | Sampling Rate | Channels | Subjects | Notes |
@@ -166,12 +168,12 @@ Additional MI datasets covering diverse paradigms, populations, and clinical app
 
 ### Clinical / Patient Datasets
 
-| Dataset | Access | Disease | Tasks | Sampling Rate | Channels | Subjects | Trials | System |
-|---|---|---|---|---|---|---|---|---|
-| **LLMI-Stroke** | [Link](https://figshare.com/articles/dataset/Lower_limb_motor_imagery_EEG_dataset_based_on_the_multi-paradigm_and_longitudinal-training_of_stroke_patients/27130299) | Stroke-recovered | IG, KS | 1000 Hz | 64 | 27 | 40 | 10/20 |
-| **XuanWu-Stroke** | [Link](https://figshare.com/articles/dataset/EEG_datasets_of_stroke_patients/21679035/5) | Acute stroke | LH, RH | 500 Hz | 32 | 50 | 40 | 10/10 |
-| **EEGET-ALS** | [Link](https://doi.org/10.6084/m9.figshare.c.6910027.v1) | ALS | LHU, RHU, LLU, RLU, OM, NH, SH | 128 Hz | 32 | 6 | 210 | 10/10 |
-| **WCCI2020-Glasgow** | [Link](https://github.com/5anirban9/Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow) | Hemiplegia | LH, RH | 512 Hz | 12 | 10 | 40 | 10/20 |
+| Dataset | Access | Disease | Tasks | Sampling Rate | Channels | Subjects |
+|---|---|---|---|---|---|---|
+| **LLMI-Stroke** | [Link](https://figshare.com/articles/dataset/Lower_limb_motor_imagery_EEG_dataset_based_on_the_multi-paradigm_and_longitudinal-training_of_stroke_patients/27130299) | Stroke-recovered | IG, KS | 1000 Hz | 64 | 27 |
+| **XuanWu-Stroke** | [Link](https://figshare.com/articles/dataset/EEG_datasets_of_stroke_patients/21679035/5) | Acute stroke | LH, RH | 500 Hz | 32 | 50 |
+| **EEGET-ALS** | [Link](https://doi.org/10.6084/m9.figshare.c.6910027.v1) | ALS | LHU, RHU, LLU, RLU, OM, NH, SH | 128 Hz | 32 | 6 |
+| **WCCI2020-Glasgow** | [Link](https://github.com/5anirban9/Clinical-Brain-Computer-Interfaces-Challenge-WCCI-2020-Glasgow) | Hemiplegia | LH, RH | 512 Hz | 12 | 10 |
 
 **Task abbreviations:** IG = idle ground, KS = knee support, LHU = left hand up, RHU = right hand up, LLU = left leg up, RLU = right leg up, OM = open mouth, NH = nod head, SH = shake head.
 
