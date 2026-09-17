@@ -43,7 +43,7 @@ These datasets are the most frequently used benchmarks in MI-BCI research.
 - **Channels:** 60 EEG
 - **Sampling rate:** 250 Hz
 - **Classes:** 4 (left hand, right hand, foot, tongue)
-- **Trials per class:** 90 (k3), 60 (k6), 60 (l1)
+- **Citation:** B. Blankertz et al., *"The BCI Competition III: Validating Alternative Approaches to Actual BCI Problems,"* IEEE Trans. Neural Syst. Rehabil. Eng., vol. 14, no. 2, pp. 153–159, Jun. 2006.
 
 ---
 
@@ -54,7 +54,7 @@ These datasets are the most frequently used benchmarks in MI-BCI research.
 - **Channels:** 118 EEG
 - **Sampling rate:** 1000 Hz and 100 Hz versions
 - **Classes:** 2 (right hand, foot)
-- **Trials:** 280 per subject (140 per class); small training sets (28–224 trials), suitable for evaluating algorithms with limited training data
+- **Notes:** Suitable for evaluating algorithms with limited training data
 - **Citation:** B. Blankertz et al., *"The BCI Competition III: Validating Alternative Approaches to Actual BCI Problems,"* IEEE Trans. Neural Syst. Rehabil. Eng., vol. 14, no. 2, pp. 153–159, Jun. 2006.
 
 ---
@@ -66,8 +66,6 @@ These datasets are the most frequently used benchmarks in MI-BCI research.
 - **Channels:** 59 EEG
 - **Sampling rate:** 1000 Hz (also available downsampled at 100 Hz)
 - **Classes:** 2 MI tasks, selected from left hand, right hand, and foot
-- **Trials:** 200 per subject (downsampled version), balanced across classes
-- **Notes:** No feedback provided. Recorded with BrainAmp MR plus amplifiers and Ag/AgCl electrode caps.
 - **Citation:** BCI Competition IV (2008), http://www.bbci.de/competition/iv/
 
 ---
@@ -79,8 +77,7 @@ These datasets are the most frequently used benchmarks in MI-BCI research.
 - **Channels:** 22 Ag/AgCl EEG
 - **Sampling rate:** 250 Hz (bandpass 0.5–100 Hz)
 - **Classes:** 4 (left hand, right hand, feet, tongue)
-- **Trials:** 288 per session (72 per class); 2 sessions per subject (training + evaluation, on different days)
-- **Trial duration:** 4 s
+- **Citation:** BCI Competition IV (2008), http://www.bbci.de/competition/iv/
 
 ---
 
@@ -90,8 +87,8 @@ These datasets are the most frequently used benchmarks in MI-BCI research.
 - **Subjects:** 9
 - **Channels:** 3 EEG (C3, Cz, C4) + 3 EOG
 - **Sampling rate:** 250 Hz (bandpass 0.5–100 Hz)
-- **Classes:** 2 MI tasks
-- **Sessions:** 5 per subject (first 2 without feedback, last 3 with feedback); 6–8 runs per session, 10 trials per run
+- **Classes:** 2 MI tasks (left hand, right hand)
+- **Citation:** BCI Competition IV (2008), http://www.bbci.de/competition/iv/
 
 ---
 
@@ -102,7 +99,7 @@ These datasets are the most frequently used benchmarks in MI-BCI research.
 - **Channels:** 64 EEG
 - **Sampling rate:** 160 Hz
 - **Classes:** 4 (left fist, right fist, both fists, both feet) — includes both motor execution and motor imagery
-- **Notes:** Large dataset, well suited for deep learning. Recorded with the BCI2000 system.
+- **Notes:** Large dataset, well-suited for deep learning. Recorded with the BCI2000 system.
 - **Citation:** Schalk, G., McFarland, D. J., Hinterberger, T., Birbaumer, N., and Wolpaw, J. R. (2004). *"BCI2000: A General-Purpose Brain-Computer Interface (BCI) System."* IEEE Trans. Biomed. Eng. 51, 1034–1043. doi: 10.1109/TBME.2004.827072
 
 ---
