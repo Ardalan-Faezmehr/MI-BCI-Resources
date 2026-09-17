@@ -111,8 +111,6 @@ These datasets are the most frequently used benchmarks in MI-BCI research.
 - **Channels:** 62 Ag/AgCl EEG
 - **Sampling rate:** 1000 Hz
 - **Classes (MI paradigm):** 2 (left hand, right hand)
-- **Sessions:** 2 per subject; 200 trials per session (100 per class)
-- **Trial duration:** 4 s
 - **Notes:** Covers three BCI paradigms: MI, ERP, and SSVEP.
 - **Citation:** M.-H. Lee et al., *"EEG dataset and OpenBMI toolbox for three BCI paradigms: An investigation into BCI illiteracy,"* GigaScience, vol. 8, no. 5, May 2019, giz002.
 
@@ -125,7 +123,6 @@ These datasets are the most frequently used benchmarks in MI-BCI research.
 - **Channels:** 128 EEG
 - **Sampling rate:** 500 Hz
 - **Classes:** 4 (left hand, right hand, feet, rest)
-- **Trials:** ~880 training + ~160 test per subject
 - **Citation:** Schirrmeister, R. T. et al., *"Deep learning with convolutional neural networks for EEG decoding and visualization,"* Human Brain Mapping 38, 5391–5420, 2017.
 
 ---
@@ -137,7 +134,6 @@ These datasets are the most frequently used benchmarks in MI-BCI research.
 - **Channels:** 64 Ag/AgCl active electrodes (10–10 system)
 - **Sampling rate:** 512 Hz
 - **Classes:** 2 (left hand, right hand MI)
-- **Trials:** 100–120 per class per subject
 - **Notes:** Also includes non-task EEG (eye blinking, eye movement, head movement, jaw clenching, resting state), EMG, and questionnaire data. Contains both well-discriminated and less-discriminative subjects.
 - **Citation:** Cho, H., Ahn, M., Ahn, S., Kwon, M. & Jun, S. C., *"EEG datasets for motor imagery brain–computer interface,"* GigaScience 6, 1–8, 2017.
 
