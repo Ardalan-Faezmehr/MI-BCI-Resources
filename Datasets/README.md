@@ -16,7 +16,7 @@ sections:
 ## ⚠️ Attribution and Citation Notice
 
 All datasets listed below are **owned and maintained by their respective
-authors and institutions**. We do not host any of the data.
+authors and institutions**. We do not own any of the data.
 
 **Before using any dataset, you must read and follow the citation and usage
 instructions provided at the original source and cite the corresponding
