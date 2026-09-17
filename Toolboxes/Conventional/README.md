@@ -21,7 +21,7 @@ If you accessed any of these resources through this repository or through our re
 
 | Method / Toolbox | Author(s) (Year) | Code Link | Novelty / Problem Addressed |
 |---|---|---|---|
-| **Regularized CSP (RCSP) Framework** | Lotte and Guan (2011) | [Code & software page](https://sites.google.com/site/fabienlotte/research/code-and-softwares) | Developed a unified framework and regularized CSP algorithms — addressing CSP overfitting and noise sensitivity. Includes: CSP, CCSP1, CCSP2, DL_CSP, DL_CSP_auto, DL_CSP_diff, generic_RCSP, GLR_CSP, SR_CSP, SSR_CSP, TR_CSP, WTR_CSP. |
+| **Regularized CSP (RCSP) Framework** | Lotte and Guan (2011) | [Code & software page](https://sites.google.com/site/fabienlotte/research/code-and-softwares) — see note below ↓ | Developed a unified framework and regularized CSP algorithms — addressing CSP overfitting and noise sensitivity. Includes: CSP, CCSP1, CCSP2, DL_CSP, DL_CSP_auto, DL_CSP_diff, generic_RCSP, GLR_CSP, SR_CSP, SSR_CSP, TR_CSP, WTR_CSP. |
 | **MNS-ELR** | Hou et al. (2025) | https://github.com/Rayzhe/MNS-ELR | Jointly optimized spatial filters and classifiers with sparse L21/L1 regularization — addressing robust and efficient MI feature extraction. |
 | **MTGCSP** | Mi et al. (2026) | https://github.com/RF-Li/MTGCSP/ | Introduced multi-scale time-window and frequency-band optimization with sparse joint CSP selection, addressing fixed temporal scales and independent time-frequency optimization. |
 | **CSP-based CDF Filtering** | Faezmehr et al. (2026) | https://github.com/Ardalan-Faezmehr/CSP_based_CDF_Filtering | Provides an EEG preprocessing approach based on class-discrepancy-guided sub-band filtering and Common Spatial Pattern (CSP)-related processing. |
