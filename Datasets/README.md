@@ -149,11 +149,11 @@ Additional MI datasets covering diverse paradigms, populations, and clinical app
 
 ### Classical BCI Competition Datasets
 
-| Dataset | Access | Subjects | Channels | Sampling Rate | Classes | Notes |
-|---|---|---|---|---|---|---|
-| **BCIC-III-IIIb** | [Link](http://www.bbci.de/competition/iii/) · [Description](http://www.bbci.de/competition/iii/desc_IIIb.pdf) | 3 (O3, S4, X11) | 3 (10–20 system) | 125 Hz (0.5–30 Hz notch) | 2 | 7 s trials; 320 (O3), 1080 (S4, X11) trials |
-| **BCIC-III-IVb** | [Link](http://www.bbci.de/competition/iii/) · [Description](https://www.bbci.de/competition/iii/desc_IVb.html) | 1 | 118 (10/20) | 1000 Hz | 2 (LH, RF) | 210 trials/class; visual cues 3.5 s; bandpass 0.5–200 Hz |
-| **BCIC-III-V** | [Link](https://www.bbci.de/competition/iii/) · [Description](https://www.bbci.de/competition/iii/desc_V.html) | 3 healthy | 32 | 512 Hz | 3 (LH, RH, word generation) | 3 sessions per subject |
+| Dataset | Access | Subjects | Channels | Sampling Rate | Classes |
+|---|---|---|---|---|---|
+| **BCIC-III-IIIb** | [Link](http://www.bbci.de/competition/iii/) · [Description](http://www.bbci.de/competition/iii/desc_IIIb.pdf) | 3 (O3, S4, X11) | 3 (10–20 system) | 125 Hz (0.5–30 Hz notch) | 2 (LH, RH) |
+| **BCIC-III-IVb** | [Link](http://www.bbci.de/competition/iii/) · [Description](https://www.bbci.de/competition/iii/desc_IVb.html) | 1 | 118 (10/20) | 1000 Hz | 2 (LH, RF) |
+| **BCIC-III-V** | [Link](https://www.bbci.de/competition/iii/) · [Description](https://www.bbci.de/competition/iii/desc_V.html) | 3 healthy | 32 | 512 Hz | 3 (LH, RH, word generation) |
 
 ### Task-Diverse MI Datasets
 
