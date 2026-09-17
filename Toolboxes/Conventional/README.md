@@ -15,15 +15,6 @@ If you accessed any of these resources through this repository or through our re
 > **A. Faezmehr, S. Fatemi, V. Shalchyan, and M. R. Daliri**,
 > *"From EEG Signals to Commands: A Review of Machine Learning Pipelines in Motor Imagery Brain-Computer Interfaces."*
 
-```bibtex
-@article{faezmehr2025eeg,
-  title   = {From EEG Signals to Commands: A Review of Machine Learning Pipelines in Motor Imagery Brain-Computer Interfaces},
-  author  = {Faezmehr, Ardalan and Fatemi, Shahab and Shalchyan, Vahid and Daliri, Mohammad Reza},
-  journal = {--},
-  year    = {2025}
-}
-```
-
 ---
 
 ## 📋 Method Summary Table
