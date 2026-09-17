@@ -6,9 +6,9 @@ This folder lists deep learning frameworks, toolboxes, and model implementations
 
 ## ⚠️ Attribution and Citation Notice
 
-All toolboxes and code repositories listed below are **owned and maintained by their respective authors**. We do not host or reimplement any of these models.
+All toolboxes and code repositories listed below are the work of their original authors and are maintained by them. Please refer to their repositories for the code.
 
-**Before using any toolbox or model, you must read and follow the citation and usage instructions provided at the original repository and cite the corresponding original paper(s).**
+**Before using any toolbox or method, you must read and follow the citation and usage instructions provided in the original repository and cite the corresponding original paper(s).**
 
 If you accessed any of these resources through this repository or through our review paper, we would be pleased if you also cite:
 
